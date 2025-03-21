@@ -13,6 +13,9 @@ This repository contains a simple chatbot implementation using Chainlit and Goog
 - 🔑 A Google Gemini API key
 - 📦 Required Python dependencies installed
 
+- ![ui](https://github.com/user-attachments/assets/05adf97a-14dd-46f5-b617-d504afd300f9)
+
+
 ## 🛠️ Installation
 1. Clone the repository:
    ```sh
