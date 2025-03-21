@@ -68,7 +68,7 @@ google-generativeai
 This project is licensed under the MIT License.
 
 ## 👤 Author
-Your Name - [GitHub Profile](https://github.com/ersa-rani)
+ERSA RANI - [GitHub Profile](https://github.com/ersa-rani)
 
 ## 🙌 Acknowledgments
 - [Chainlit](https://chainlit.io/) 🚀
